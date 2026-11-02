@@ -1,7 +1,7 @@
 {
-  "name": "Niagara Casino Smart Stay",
-  "short_name": "Smart Stay",
-  "description": "Hotel guest services: room requests, events, dining, parking, and hotel info.",
+  "name": "Niagara Casino Guest Stay",
+  "short_name": "Guest Stay",
+  "description": "Hotel companion: guest requests, concierge chat, events, dining, parking, and hotel content.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

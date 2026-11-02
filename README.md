@@ -1,13 +1,14 @@
-# NiagaraCasinoSmartStay
+# NiagaraCasinoGuestStay
 
-Маркетинговый сайт приложения **Niagara Casino Smart Stay** — hotel guest service app:
+Маркетинговый сайт приложения **Niagara Casino Guest Stay** — hotel guest companion:
 
-- Guest Requests (7 категорий + статусы)
+- Guest Requests (категории + статусы + room number)
+- Concierge Chat
 - Event Booking
 - In-Room Dining
 - Parking (3 этажа)
 - Hotel Blog
-- временный guest code
+- dynamic guest QR code
 
 Только iPhone. Без ссылок на официальный сайт казино. Стили: зелёный/золото, full-bleed hero, телефон со скрином.
 
